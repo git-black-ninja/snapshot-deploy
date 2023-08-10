@@ -51,4 +51,5 @@ Now, add the new PVC name in your deployment.
 
 ```
 ## Add the name pvc-restore in the file where I show in the screenshot.
-![image](https://github.com/git-black-ninja/snapshot-deploy/assets/141961610/541a3435-253f-4c80-b811-5e7e84a90f3c)
+![image](https://github.com/git-black-ninja/snapshot-deploy/assets/141961610/fc79188b-6499-4be6-b122-1f38fa4c4cfa)
+
