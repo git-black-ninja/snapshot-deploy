@@ -1,7 +1,7 @@
 
 ## Deploy Snapshot from Scratch
 
-To deploy snapshot, run this command.
+To deploy a snapshot, run these commands:
 
 
 ```bash
